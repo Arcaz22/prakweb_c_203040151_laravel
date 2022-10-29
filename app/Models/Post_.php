@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-class Post 
+class _Post 
 {
     private static $blog_posts = [
       [
